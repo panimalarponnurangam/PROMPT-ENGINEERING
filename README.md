@@ -12,24 +12,30 @@ Develop a comprehensive report for the following exercises:
 from existing data. It uses machine learning algorithms, particularly deep learning, to generate outputs that are statistically similar to the 
 training data but are entirely novel. Key concepts include foundation models, which are large, pre-trained neural networks, and the use of 
 prompts, which are user-provided instructions that guide the generation process. 
-**Core Concepts:**
-**1.1 Foundation Models:** These are large neural networks trained on massive datasets, often encompassing text, images, and other data types. They learn general patterns and
+### Core Concepts:
+### 1.1 Foundation Models:
+These are large neural networks trained on massive datasets, often encompassing text, images, and other data types. They learn general patterns and
 relationships within the data, allowing them to generate new content.
 Examples include GPT (for text), DALL-E (for image generation), and Stable Diffusion. 
-**1.2 Prompts:** Users provide prompts (natural language instructions) to guide the generative AI model in producing specific outputs. The model uses the 
+### 1.2 Prompts: 
+Users provide prompts (natural language instructions) to guide the generative AI model in producing specific outputs. The model uses the 
 prompt to refine its generation based on the patterns it has learned. 
-**1.3 Machine Learning Algorithms:** Generative AI relies on various machine learning techniques, 
+### 1.3 Machine Learning Algorithms: 
+Generative AI relies on various machine learning techniques, 
 including:
    1. Deep Learning: Uses artificial neural networks with multiple layers to learn complex patterns in data.
    2. Neural Networks: These are the foundational structures that process and learn from data. 
    3. Generative Adversarial Networks (GANs): Use two neural networks, a generator and a discriminator, to create realistic content that resembles the training data. 
    4. Variational Autoencoders (VAEs): Encode input data into a latent space and then decode it to generate new content. 
    5. Diffusion Models: Gradually add noise to data and then train a model to reverse this process, creating new content. 
-**1.4 Data:** Generative AI models are trained on vast datasets, which provide the foundation for their learning process. The more diverse and comprehensive the
- data, the better the model's ability to generate creative and accurate outputs. 
-**1.5 Unsupervised and Semi-supervised Learning:** Generative AI models often learn from unlabeled data, which means they identify patterns
- and relationships without explicit guidance from human trainers.
-**1.6 Multimodal Generation:** Many modern generative AI models can handle multiple data types simultaneously, generating content that combines text, images, and other media.
+### 1.4 Data:
+    Generative AI models are trained on vast datasets, which provide the foundation for their learning process. The more diverse and comprehensive the
+data, the better the model's ability to generate creative and accurate outputs. 
+### 1.5 Unsupervised and Semi-supervised Learning:
+   Generative AI models often learn from unlabeled data, which means they identify patterns
+and relationships without explicit guidance from human trainers.
+### 1.6 Multimodal Generation:
+ Many modern generative AI models can handle multiple data types simultaneously, generating content that combines text, images, and other media.
 
 ## 2. Focusing on Generative AI architectures. (like transformers).
    Generative AI architectures are the underlying systems and models that enable AI to create new and original data, like text, images, or music,
