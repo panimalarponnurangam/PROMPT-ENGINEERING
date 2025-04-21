@@ -52,19 +52,23 @@ Text generation: Generative AI can create blog posts, articles, social media upd
 Image generation: Tools like DALL-E 3 and Midjourney allow users to create visually stunning imagery from text prompts. 
 Audio generation: AI can generate music, sound effects, and voice-overs for various purposes, like video editing or game development. 
 Video generation: Generative AI is also being used to create video content from text descriptions and other media. 
+
 ### 3.2 Software Development:
-   Code generation: AI tools can help developers write code more efficiently by generating snippets or even complete functions based on user input.
-Debugging and testing: Generative AI can automate tasks like identifying code errors and creating test cases. 
+**Code generation:** AI tools can help developers write code more efficiently by generating snippets or even complete functions based on user input.
+**Debugging and testing**: Generative AI can automate tasks like identifying code errors and creating test cases. 
+
 ### 3.3 Healthcare: Drug discovery:
 AI can accelerate the process of identifying potential new drugs by analyzing vast amounts of data. 
-Medical imaging: Generative AI can help doctors analyze medical images more accurately and efficiently. 
-Personalized medicine: AI can be used to develop treatment plans tailored to individual patients. 
-### 3.4 Finance: Fraud detection:
-Generative AI can help financial institutions identify and prevent fraudulent transactions.
-Customer service: AI-powered chatbots can provide financial advice and support to customers. 
+**Medical imaging:** Generative AI can help doctors analyze medical images more accurately and efficiently. 
+**Personalized medicine:** AI can be used to develop treatment plans tailored to individual patients.
+
+### 3.4 Finance: 
+**Fraud detection:** Generative AI can help financial institutions identify and prevent fraudulent transactions.
+**Customer service:** AI-powered chatbots can provide financial advice and support to customers. 
+
 ### 3.5 Education:
-Personalized learning: AI can adapt educational content to individual learning styles and paces.
-Automated grading: AI can be used to automate the grading of assignments and quizzes.
+**Personalized learning:** AI can adapt educational content to individual learning styles and paces.
+**Automated grading:** AI can be used to automate the grading of assignments and quizzes.
 
 # 4. Generative AI impact of scaling in LLMs.
    Scaling Large Language Models (LLMs) in generative AI significantly impacts their capabilities and applications, primarily through increased accuracy,
