@@ -49,25 +49,33 @@ personalize experiences, and automate tasks. Specifically, applications range fr
 applications:
 ### 3.1 Content Creation:
 **1.Text generation:** Generative AI can create blog posts, articles, social media updates, and even entire scripts, saving time and effort. 
+
 **2.Image generation:** Tools like DALL-E 3 and Midjourney allow users to create visually stunning imagery from text prompts. 
+
 **3.Audio generation:** AI can generate music, sound effects, and voice-overs for various purposes, like video editing or game development. 
+
 **4.Video generation:** Generative AI is also being used to create video content from text descriptions and other media. 
 
 ### 3.2 Software Development:
-**1.Code generation:** AI tools can help developers write code more efficiently by generating snippets or even complete functions based on user input.
+**1.Code generation:** AI tools can help developers write code more efficiently by generating snippets or even complete 
+functions based on user input.
+
 **2.Debugging and testing:** Generative AI can automate tasks like identifying code errors and creating test cases. 
 
 ### 3.3 Healthcare: Drug discovery:
 AI can accelerate the process of identifying potential new drugs by analyzing vast amounts of data. 
 **1.Medical imaging:** Generative AI can help doctors analyze medical images more accurately and efficiently. 
+
 **2.Personalized medicine:** AI can be used to develop treatment plans tailored to individual patients.
 
 ### 3.4 Finance: 
 **1.Fraud detection:** Generative AI can help financial institutions identify and prevent fraudulent transactions.
+
 **2.Customer service:** AI-powered chatbots can provide financial advice and support to customers. 
 
 ### 3.5 Education:
 **1.Personalized learning:** AI can adapt educational content to individual learning styles and paces.
+
 **2.Automated grading:** AI can be used to automate the grading of assignments and quizzes.
 
 # 4. Generative AI impact of scaling in LLMs.
