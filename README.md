@@ -49,8 +49,11 @@ personalize experiences, and automate tasks. Specifically, applications range fr
 applications:
 ### 3.1 Content Creation:
 **Text generation:** Generative AI can create blog posts, articles, social media updates, and even entire scripts, saving time and effort. 
+
 **Image generation:** Tools like DALL-E 3 and Midjourney allow users to create visually stunning imagery from text prompts. 
+
 **Audio generation:** AI can generate music, sound effects, and voice-overs for various purposes, like video editing or game development. 
+
 **Video generation:** Generative AI is also being used to create video content from text descriptions and other media. 
 
 ### 3.2 Software Development:
