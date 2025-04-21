@@ -8,7 +8,10 @@ Develop a comprehensive report for the following exercises:
 
 # Output
 ## 1. Explain the foundational concepts of Generative AI. 
-Generative AI is a type of artificial intelligence that creates new content like text, images, videos, and code, based on patterns learned from existing data. It uses machine learning algorithms, particularly deep learning, to generate outputs that are statistically similar to the training data but are entirely novel. Key concepts include foundation models, which are large, pre-trained neural networks, and the use of prompts, which are user-provided instructions that guide the generation process. 
+    Generative AI is a type of artificial intelligence that creates new content like text, images, videos, and code, based on patterns learned
+from existing data. It uses machine learning algorithms, particularly deep learning, to generate outputs that are statistically similar to the 
+training data but are entirely novel. Key concepts include foundation models, which are large, pre-trained neural networks, and the use of 
+prompts, which are user-provided instructions that guide the generation process. 
 **Core Concepts:**
 **1. Foundation Models:**
 These are large neural networks trained on massive datasets, often encompassing text, images, and other data types. They learn general patterns and
